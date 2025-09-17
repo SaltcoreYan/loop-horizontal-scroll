@@ -37,7 +37,7 @@ You can edit the script header to adjust:
 
 ### 🚀 安装方法
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)（或其他用户脚本管理器）。
-2. [点击这里安装脚本](https://greasyfork.org/scripts/你的脚本ID/code/loop-horizontal-scroll.user.js)。
+2. [点击这里安装脚本](https://greasyfork.org/zh-CN/scripts/549855-%E5%9C%A8-microsoft-loop-%E8%BF%9B%E5%BA%A6%E8%B7%9F%E8%B8%AA%E5%99%A8%E4%B8%AD%E5%90%AF%E7%94%A8-shift-%E6%BB%9A%E8%BD%AE%E6%A8%AA%E5%90%91%E6%BB%9A%E5%8A%A8)。
 3. 打开 [Microsoft Loop](https://loop.microsoft.com)，按住组合键 + 滚轮试试。
 
 ### ⚙️ 配置说明
